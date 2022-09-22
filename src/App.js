@@ -14,15 +14,15 @@ class App extends Component {
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
           <p>
-            Edit <code>src/App.js</code> and save to reload.
+            The first 1K people who create an account, will receive DA-FI token from our ongoing airdrop
           </p>
           <a
             className="App-link"
-            href="https://reactjs.org"
+            href="https://quantumone.network"
             target="_blank"
             rel="noopener noreferrer"
           >
-            Learn React
+            Learn More
           </a>
         </header>
       </div>
