@@ -18,7 +18,7 @@ class App extends Component {
           </p>
           <a
             className="App-link"
-            href="https://quantumone.network"
+            href="https://www.quantumone.network"
             target="_blank"
             rel="noopener noreferrer"
           >
